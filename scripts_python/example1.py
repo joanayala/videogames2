@@ -9,6 +9,8 @@ data = '''
  Esto es una variable string
  en bloque
 '''
+player = "Joan"
+lives = 5
 
 n1 = 10
 n2 = 20
